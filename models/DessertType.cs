@@ -1,0 +1,4 @@
+    enum DessertType { 
+        Normal,
+        Special
+    }

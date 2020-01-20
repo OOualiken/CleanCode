@@ -1,0 +1,11 @@
+/Users/oualiken/Documents/cleancode/bin/Debug/netcoreapp3.0/cleancode
+/Users/oualiken/Documents/cleancode/bin/Debug/netcoreapp3.0/cleancode.deps.json
+/Users/oualiken/Documents/cleancode/bin/Debug/netcoreapp3.0/cleancode.runtimeconfig.json
+/Users/oualiken/Documents/cleancode/bin/Debug/netcoreapp3.0/cleancode.runtimeconfig.dev.json
+/Users/oualiken/Documents/cleancode/bin/Debug/netcoreapp3.0/cleancode.dll
+/Users/oualiken/Documents/cleancode/bin/Debug/netcoreapp3.0/cleancode.pdb
+/Users/oualiken/Documents/cleancode/obj/Debug/netcoreapp3.0/cleancode.csprojAssemblyReference.cache
+/Users/oualiken/Documents/cleancode/obj/Debug/netcoreapp3.0/cleancode.AssemblyInfoInputs.cache
+/Users/oualiken/Documents/cleancode/obj/Debug/netcoreapp3.0/cleancode.AssemblyInfo.cs
+/Users/oualiken/Documents/cleancode/obj/Debug/netcoreapp3.0/cleancode.dll
+/Users/oualiken/Documents/cleancode/obj/Debug/netcoreapp3.0/cleancode.pdb

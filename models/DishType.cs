@@ -1,0 +1,4 @@
+    enum DishType { 
+        Plate,
+        Sandwitch
+    }
